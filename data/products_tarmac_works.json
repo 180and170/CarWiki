@@ -49,8 +49,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$19.90",
-    "image": "data/images/tarmac_works/1fd031b87e06.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-021-TMEB_M01.jpg?v=1776071898",
+    "image": "data/images/tarmac_works/c8453e28a3f2.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-021-TMEB_M01.jpg?v=1778053052",
     "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-lancer-evolution-vi-tommi-makinen-edition-blue-tarmac-works-road64",
     "description": "Decal Stickers Included1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
@@ -236,8 +236,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$19.90",
-    "image": "data/images/tarmac_works/cf2248a7a493.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-094-RE_M01.jpg?v=1770868670",
+    "image": "data/images/tarmac_works/ff41660e7cee.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-094-RE_M01.jpg?v=1778052775",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-fiat-131-abarth-rally-stradale-red",
     "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
@@ -1639,6 +1639,17 @@
     "description": "**New Tooling**Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benef"
   },
   {
+    "name": "Tarmac Works 1/64 Mercedes-Benz SL 500 Koenig Specials Silver - GLOBAL64",
+    "sku": "T64G-045-SL (ST)",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$11.90",
+    "image": "data/images/tarmac_works/f0ba028e0da1.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-045-SL_M01.jpg?v=1727163573",
+    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mercedes-benz-sl-500-koenig-specials-silver-global64",
+    "description": "Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productProduct weight: 0.2kgTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member"
+  },
+  {
     "name": "1/64 Mitsubishi Lancer GSR Evolution II Silver - TWOC Members Only Model Special Edition - Tarmac Works GLOBAL64",
     "sku": "T64G-049-SL",
     "brand": "Tarmac Works",
@@ -1846,17 +1857,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-041-RE_a1.jpg?v=1709779718",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hilux-red",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*d"
-  },
-  {
-    "name": "1/64 Pagani Imola Rosso Dubai - Tarmac Works GLOBAL64",
-    "sku": "T64G-TL046-RE",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$14.90",
-    "image": "data/images/tarmac_works/99addd80a292.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL046-RE_a1.jpg?v=1708058460",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-pagani-imola-rosso-dubai-global64",
-    "description": "New ToolingChase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits "
   },
   {
     "name": "1/64 Renault 5 Turbo Monte Carlo Rally 1981 #9 Winner - Tarmac Works HOBBY64",
