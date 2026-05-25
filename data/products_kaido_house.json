@@ -1,13 +1,24 @@
 [
   {
-    "name": "Kaido GT Nissan Skyline GT-R (R33) Kaido Works®  Advan",
+    "name": "Kaido GT Chevrolet Silverado Kaido Intimidator V1",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG191.jpg?v=1778268294&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG191.jpg?v=1778268294&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r33-kaido-works-advan",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-kaido-intimidator-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Chevrolet Silverado Kaido Intimidator V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-kaido-intimidator-v1",
     "description": ""
   },
   {
@@ -85,17 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHPinCaseSmoke.jpg?v=1773119667&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHPinCaseSmoke.jpg?v=1773119667&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-house-x-offse7%C2%AE-enamel-pin-display-case-smoke",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Nissan Skyline 2000GT-R (KPGC10) Kaido Street V2",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG228_c9bc0b70-13f7-478c-bbe8-989d45be5fd3.jpg?v=1770702599&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG228_c9bc0b70-13f7-478c-bbe8-989d45be5fd3.jpg?v=1770702599&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-2000gt-r-kpgc10-kaido-street-v2",
     "description": ""
   }
 ]

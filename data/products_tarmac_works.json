@@ -1,5 +1,71 @@
 [
   {
+    "name": "1/64 Koenigsegg Gemera Grey - Tarmac Works GLOBAL64",
+    "sku": "T64G-TL053-GY",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$12.90",
+    "image": "data/images/tarmac_works/eb94f9827341.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL053-GY_M01.jpg?v=1778653209",
+    "url": "https://www.tarmacworks.com/products/1-64-koenigsegg-gemera-grey-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Mercedes-AMG F1 W14 E Performance Italian Grand Prix 2023 #63 George Russell - Tarmac Works GLOBAL64",
+    "sku": "T64G-F064-GR2",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/7ffcaa943cd6.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F064-GR2_M03.jpg?v=1778652508",
+    "url": "https://www.tarmacworks.com/products/1-64-mercedes-amg-f1-w14-e-performance-italian-grand-prix-2023-63-george-russell-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 VERTEX Silvia (S 14) - Designed by Joshua Vides - Tarmac Works GLOBAL64",
+    "sku": "T64G-018-JV",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/95f727816f80.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-018-JV_M01.jpg?v=1778652059",
+    "url": "https://www.tarmacworks.com/products/1-64-vertex-silvia-s-14-designed-by-joshua-vides-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsSealed blister packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Toyota Supra - Designed by Joshua Vides - Tarmac Works HOBBY64",
+    "sku": "T64-011-JV",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$24.90",
+    "image": "data/images/tarmac_works/1bc5f67c8344.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-011-JV_M01.jpg?v=1778663661",
+    "url": "https://www.tarmacworks.com/products/1-64-toyota-supra-designed-by-joshua-vides-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsSealed blister packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Ford Escort RS Cosworth Tour de Corse - Rallye de France 1993 Winner #3 - Tarmac Works HOBBY64",
+    "sku": "T64-081-93RDF03",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/e0c5d65d175e.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-081-93RDF03_M03.jpg?v=1778605851",
+    "url": "https://www.tarmacworks.com/products/1-64-ford-escort-rs-cosworth-tour-de-corse-rallye-de-france-1993-winner-3-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Porsche 911 Carrera RS 2.7 Lightweight White/Red - COLLAB64 Schuco x Tarmac Works",
+    "sku": "T64S-023-WR",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/d9b899e2a5ff.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64S-023-WR_M01_af41e999-4c51-4f2a-8a6f-5c62440a1c23.jpg?v=1778570968",
+    "url": "https://www.tarmacworks.com/products/1-64-porsche-911-carrera-rs-2-7-lightweight-white-red-collab64-schuco-x-tarmac-works-old-copy",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
     "name": "1/64 Porsche 911 GT3 (type 996) Red - Diecast SuperCon Special Edition - Tarmac Works X iXO Models GLOBAL64",
     "sku": "T64G-069-RE2",
     "brand": "Tarmac Works",
@@ -77,17 +143,6 @@
     "description": "Decal Stickers Included1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsWith pit boardsFree rolling wheelsPaper box packagingFully licensed product"
   },
   {
-    "name": "1/64 Lancia Delta HF Integrale Monte Carlo Rally 1992 #04 Winner Didier Auriol / Bernard Occelli - Tarmac Works HOBBY64",
-    "sku": "T64-049-92MCR04",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/b5fddb2e6b5b.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-049-92MCR04_M01.jpg?v=1774500417",
-    "url": "https://www.tarmacworks.com/products/1-64-lancia-delta-hf-integrale-monte-carlo-rally-1992-winner-didier-auriol-bernard-occelli-tarmac-works-hobby64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
     "name": "Minichamps 1/64 McLaren Formula 1 Team MCL39 Lando Norris - Winner Australian GP 2025",
     "sku": "530256404",
     "brand": "Tarmac Works",
@@ -132,28 +187,6 @@
     "description": "1/64 scale die-castDetailed rims & rubber wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
-    "name": "1/64 Koenigsegg Regera Silver Metallic / Blue Accents with Tarmac Cards Combo Set - Tarmac Works GLOBAL64",
-    "sku": "T64G-TL017-SL",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$16.90",
-    "image": "data/images/tarmac_works/cd779aa1ab79.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL017-SL_M02.jpg?v=1772096519",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-koenigsegg-regera-silver-metallic-blue-accents-with-tarmac-cards-combo-set-global64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsPaper box packagingFully licensed productAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHunt down the non-serial Silver and Thunderbolt Parallel!⁠Chase the very rare Nu-Disco parallel [#'d/199] card!"
-  },
-  {
-    "name": "1/64 Koenigsegg Agera RS Black Carbon Fiber / Red Accents - Tarmac Works GLOBAL64",
-    "sku": "T64G-TL005-BCF",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/a41df8a29806.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL005-BCF_M01.jpg?v=1773649207",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-koenigsegg-agera-rs-black-carbon-fiber-red-accents-global64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
     "name": "1/64 McLaren MCL60 Australian Grand Prix 2023 Oscar Piastri - Tarmac Works X iXO Models GLOBAL64",
     "sku": "T64G-F070-OP2",
     "brand": "Tarmac Works",
@@ -163,17 +196,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F070-OP2_M03.jpg?v=1772096010",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mclaren-mcl60-australian-grand-prix-2023-oscar-piastri-global64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
-  },
-  {
-    "name": "1/64 Hyundai i20 N Rally1 Hybrid Rally Sweden 2024 Winner #4 - Tarmac Works X iXO Models HOBBY64",
-    "sku": "T64-089-24RS04",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/9aaeca1f3972.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-089-24RS04_M02a_d48edb54-2469-4e33-83dc-d1229583c8c1.jpg?v=1772093211",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-hyundai-i20-n-rally1-hybrid-rally-sweden-2024-winner-4-hobby64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
     "name": "1/64 Audi Quattro Silver - Schuco X Tarmac Works COLLAB64",
