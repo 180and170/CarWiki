@@ -1,13 +1,24 @@
 [
   {
-    "name": "Kaido GT Chevrolet Silverado Kaido Intimidator V1",
+    "name": "Kaido GT Nissan Silvia S13-R Kaido Drift V1",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG212.jpg?v=1779147105&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-kaido-intimidator-v1",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG235.jpg?v=1780457141&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG235.jpg?v=1780457141&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-silvia-s13-r-kaido-drift-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Nissan Silvia S13-R Kaido Drift V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG235.jpg?v=1780457141&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG235.jpg?v=1780457141&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-silvia-s13-r-kaido-drift-v1",
     "description": ""
   },
   {
@@ -85,17 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG190.jpg?v=1773198218&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG190.jpg?v=1773198218&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-gt-honda-nsx-kaido-test-car-spec-v1-dai-nsx",
-    "description": ""
-  },
-  {
-    "name": "KAIDO HOUSE X OFFSE7® enamel pin display case, Smoke",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$15.00 USDRegular priceSale price$15.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHPinCaseSmoke.jpg?v=1773119667&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHPinCaseSmoke.jpg?v=1773119667&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-house-x-offse7%C2%AE-enamel-pin-display-case-smoke",
     "description": ""
   }
 ]

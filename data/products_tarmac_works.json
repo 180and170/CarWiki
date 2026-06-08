@@ -1,17 +1,6 @@
 [
   {
-    "name": "1/64 Koenigsegg Gemera Grey - Tarmac Works GLOBAL64",
-    "sku": "T64G-TL053-GY",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$12.90",
-    "image": "data/images/tarmac_works/eb94f9827341.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL053-GY_M01.jpg?v=1778653209",
-    "url": "https://www.tarmacworks.com/products/1-64-koenigsegg-gemera-grey-tarmac-works-global64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
-  },
-  {
-    "name": "1/64 Mercedes-AMG F1 W14 E Performance Italian Grand Prix 2023 #63 George Russell - Tarmac Works GLOBAL64",
+    "name": "1/64 Mercedes-AMG F1 W14 E Performance Italian Grand Prix 2023 #63 George Russell - Tarmac Works x iXO Models GLOBAL64",
     "sku": "T64G-F064-GR2",
     "brand": "Tarmac Works",
     "scale": "1/64",
@@ -20,17 +9,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F064-GR2_M03.jpg?v=1778652508",
     "url": "https://www.tarmacworks.com/products/1-64-mercedes-amg-f1-w14-e-performance-italian-grand-prix-2023-63-george-russell-tarmac-works-global64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
-  },
-  {
-    "name": "1/64 VERTEX Silvia (S 14) - Designed by Joshua Vides - Tarmac Works GLOBAL64",
-    "sku": "T64G-018-JV",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$16.90",
-    "image": "data/images/tarmac_works/95f727816f80.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-018-JV_M01.jpg?v=1778652059",
-    "url": "https://www.tarmacworks.com/products/1-64-vertex-silvia-s-14-designed-by-joshua-vides-tarmac-works-global64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsSealed blister packagingFully licensed product"
   },
   {
     "name": "1/64 Ford Escort RS Cosworth Tour de Corse - Rallye de France 1993 Winner #3 - Tarmac Works HOBBY64",
@@ -779,6 +757,17 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-074-OR_M03.jpg?v=1773649462",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-nissan-veilside-ffz400-fairlady-z-orange-global64",
     "description": "New ToolingChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsSpecial Insert Card included with a chance to get Sung Kang & Veilside CEO Hironao Yokomaku autographs (only 50 pcs randomly inserted)Paper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 Mazda RX-7 VeilSide Fortune7 Yellow / Black - Tarmac Works GLOBAL64",
+    "sku": "T64G-075-YE (ST)",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$13.90",
+    "image": "data/images/tarmac_works/9659cf983523.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-075-YE_M01_8ff5e8bb-151b-4361-b2fa-84e48fbd83b2.jpg?v=1754293246",
+    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mazda-rx-7-veilside-fortune7-yellow-black-global64",
+    "description": "New ToolingChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
   },
   {
     "name": "1/64 Honda Ballade Sports MUGEN CR-X Pro Silver with Tarmac Cards Combo Set - GLOBAL64",
