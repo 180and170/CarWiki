@@ -1,14 +1,102 @@
 [
   {
-    "name": "1/64 Koenigsegg One:1 Silver - Tarmac Works GLOBAL64",
-    "sku": "T64G-TL054-SL",
+    "name": "Mitsubishi Discount Bundle - 1/64 Mitsubishi Lancer GSR Evolution Silver with Tarmac Cards & Event Special Mitsubishi Vol.01 (Pack)",
+    "sku": null,
     "brand": "Tarmac Works",
     "scale": "1/64",
-    "price": "$12.90",
-    "image": "data/images/tarmac_works/d7c2852f2946.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL054-SL_M02_f49c485b-0b7a-4077-a2db-a0ee1df682e6.jpg?v=1780660148",
-    "url": "https://www.tarmacworks.com/products/1-64-koenigsegg-one-1-silver-tarmac-works-global64",
-    "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
+    "price": "$19.90",
+    "image": "data/images/tarmac_works/351a7347d66a.png",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/Untitled_design_-_3.png?v=1782812511",
+    "url": "https://www.tarmacworks.com/products/mitsubishi-discount-bundle-1-64-mitsubishi-lancer-gsr-evolution-silver-with-tarmac-cards-event-special-mitsubishi-vol-01-pack",
+    "description": "26% OFF Original Price!Each bundle contains 1 Tarmac Works model car combo set and 1 pack of Tarmac Cards1/64 Mitsubishi Lancer GSR Evolution Silver Special Edition with Tarmac Cards - Tarmac Works GLOBAL64**New Tooling**Raw Metal Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHun"
+  },
+  {
+    "name": "Vertex Discount Bundle - 1/64 Silvia S15 GReddy & Capsule 01 (Pack)",
+    "sku": null,
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$19.90",
+    "image": "data/images/tarmac_works/9ab7cae1ec99.png",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/Untitled_design_-_2.png?v=1782812511",
+    "url": "https://www.tarmacworks.com/products/vertex-discount-bundle-1-64-silvia-s15-greddy-capsule-01-pack",
+    "description": "28% OFF Original Price!Each bundle contains 1 Tarmac Works model car and 1 pack of Tarmac Cards1/64 VERTEX Nissan Silvia S15 GReddy - Mijo Special Edition - Tarmac Works GLOBAL64Chrome Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsSealed blisterpackagingFully licensed productVertex Capsule 01 (Pack) - Tarmac CardsPacking configuration:- 4 cards per packHIGHLIGHTS:Look for "
+  },
+  {
+    "name": "Vertex Discount Bundle - 1/64 Silvia S15 GReddy & Capsule 01 (Box)",
+    "sku": null,
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$49.90",
+    "image": "data/images/tarmac_works/dd38c2c98114.png",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/Untitled_design_-_1.png?v=1782812512",
+    "url": "https://www.tarmacworks.com/products/vertex-bundle-1-64-silvia-s15-greddy-capsule-01-box",
+    "description": "26% OFF Original Price!Each bundle contains 1 Tarmac Works model car and 1 box of Tarmac Cards1/64 VERTEX Nissan Silvia S15 GReddy - Mijo Special Edition - Tarmac Works GLOBAL64Chrome Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsSealed blisterpackagingFully licensed productVertex Capsule 01 (Box) - Tarmac CardsPacking configuration:- 4 Cards per pack- 5 Packs per boxHIGHL"
+  },
+  {
+    "name": "1/64 Ford Mustang GTD Red - Tarmac Works GLOBAL64",
+    "sku": "T64G-086-RE",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$11.90",
+    "image": "data/images/tarmac_works/4b12ed4efbb3.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-086-RE_M02.jpg?v=1782462227",
+    "url": "https://www.tarmacworks.com/products/1-64-ford-mustang-gtd-red-tarmac-works-global64",
+    "description": "New ToolingChrome Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 VERTEX Silvia (S 15) Mickey Mouse - Tarmac Works GLOBAL64",
+    "sku": "T64G-023-MK",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$18.90",
+    "image": "data/images/tarmac_works/69dd41a6a94f.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-023-MK_M01.jpg?v=1782461225",
+    "url": "https://www.tarmacworks.com/products/1-64-vertex-silvia-s-15-mickey-mouse-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 VERTEX Silvia (S 14) Minnie Mouse - Tarmac Works GLOBAL64",
+    "sku": "T64G-018-MN",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$18.90",
+    "image": "data/images/tarmac_works/41293e062408.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-018-MN_M01.jpg?v=1782460928",
+    "url": "https://www.tarmacworks.com/products/1-64-vertex-silvia-s-14-minnie-mouse-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 McLaren MCL60 Japanese Grand Prix 2023 #4 Lando Norris - Tarmac Works x iXO Models GLOBAL64",
+    "sku": "T64G-F070-LN3",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/d57fc8a0d02b.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F070-LN3_M03.jpg?v=1782459902",
+    "url": "https://www.tarmacworks.com/products/1-64-mclaren-mcl60-japanese-grand-prix-2023-4-lando-norris-tarmac-works-x-ixo-models-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsComes with Parc Fermé podium board and pit boardFree rolling wheelsNo chase carPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Hyundai i20 N Rally1 Hybrid Croatia Rally 2024 #11 - Tarmac Works x iXO Models HOBBY64",
+    "sku": "T64-089-24CR11",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/59b66d662e65.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-089-24CR11_M01.jpg?v=1782456959",
+    "url": "https://www.tarmacworks.com/products/1-64-hyundai-i20-n-rally1-hybrid-croatia-rally-2024-11-tarmac-works-x-ixo-models-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Mitsubishi Lancer Evolution VI TME Super Taikyu Series 2000 #11 - Tarmac Works HOBBY64",
+    "sku": "T64-021-00ST11",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/0ee3e553cbbc.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-021-00ST11_M01.jpg?v=1782456128",
+    "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-lancer-evolution-vi-tme-super-taikyu-series-2000-11-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
     "name": "1/64 Vertex Ridge TE3005 Soarer with Tarmac Cards - GLOBAL64",
@@ -269,8 +357,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$21.90",
-    "image": "data/images/tarmac_works/53a97042a39c.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-YAS_M02.jpg?v=1771571158",
+    "image": "data/images/tarmac_works/ae99a7911cf1.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-YAS_M02.jpg?v=1782978168",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-widebody-yasaki",
     "description": "Tarmac Works 1/64 Toyota Hiace Widebody Yasaki - HOBBY64This is a collab product with Yasaki, a sportswear brand based in Hong Kong with over 35 years of heritage.1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
@@ -467,8 +555,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$21.90",
-    "image": "data/images/tarmac_works/53f29f677641.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-HB_M01.jpg?v=1764835283",
+    "image": "data/images/tarmac_works/8ff5af764337.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-HB_M01.jpg?v=1782978929",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-widebody-hashtag-b-special-edition-hobby64",
     "description": "Hashtag B Special EditionTarmac Works 1/64 Toyota Hiace Widebody1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed productTarmac Works X Hashtag BSpecial Gift Diorama Display Base1x diorama display base will be included in each bundle"
   },
@@ -731,8 +819,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$21.90",
-    "image": "data/images/tarmac_works/a2352d680c2f.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-TOYO_M01_b29f8b74-ae3c-47c9-8e41-4bc5c32299f3.jpg?v=1756350873",
+    "image": "data/images/tarmac_works/ad929e6da65f.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-TOYO_M01_b29f8b74-ae3c-47c9-8e41-4bc5c32299f3.jpg?v=1782978879",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-widebody-toyo-tires-hobby64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
@@ -1061,8 +1149,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$12.90",
-    "image": "data/images/tarmac_works/a9f321dc6fab.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-026-FA_M01.jpg?v=1747716115",
+    "image": "data/images/tarmac_works/88ca855befb9.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-026-FA_M01_62a24863-07a9-4d76-8c3d-8a1168b915d1.jpg?v=1782979631",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-datsun-bluebird-510-wagon-fanta-global64",
     "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
@@ -1226,8 +1314,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$19.90",
-    "image": "data/images/tarmac_works/f6523ac11621.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-078-CC_M02_f73c81db-2a8c-4f68-9050-b1896228dfbc.jpg?v=1743040938",
+    "image": "data/images/tarmac_works/8f8da7f2e051.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-078-CC_M02_f73c81db-2a8c-4f68-9050-b1896228dfbc.jpg?v=1782978433",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-wagon-custom-coca-cola-delivery-van-hobby64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed product"
   },
@@ -1375,17 +1463,6 @@
     "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits wil"
   },
   {
-    "name": "1/64 Mitsubishi Lancer GSR Evolution II Red with Tarmac Cards - Tarmac Works GLOBAL64",
-    "sku": "T64G-049-RE (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$14.90",
-    "image": "data/images/tarmac_works/ffc10edb5534.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-049-RE_M02.jpg?v=1732249622",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mitsubishi-lancer-gsr-evolution-ii-red-with-tarmac-cards-global64",
-    "description": "Chase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed productAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHunt down the non-serial Silver and the exclusive Mitsubishi Three-Diamond parallel!⁠Chase the very rare and exclusive Evolution parallel [#'d/199] card!Tarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% o"
-  },
-  {
     "name": "1/64 Toyota Hilux AXCR 2017 with Truck Packaging - Tarmac Works HOBBY64",
     "sku": "T64-041-FAL",
     "brand": "Tarmac Works",
@@ -1479,8 +1556,8 @@
     "brand": "Tarmac Works",
     "scale": "1/64",
     "price": "$21.90",
-    "image": "data/images/tarmac_works/e83f82a6ba4b.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-TRD_M02.jpg?v=1728806722",
+    "image": "data/images/tarmac_works/75582cc85b30.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-TRD_M02.jpg?v=1782978387",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-widebody-trd-hobby64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*d"
   },
@@ -1527,17 +1604,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-049-SL_M03.jpg?v=1724553840",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mitsubishi-lancer-gsr-evolution-ii-silver-twoc-members-only-model-global64-1",
     "description": "New ToolingTarmac Works Owners Club (TWOC) Members Only Model #05Limited to 1,248 pcs producedChase version will be included in orders randomly1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
-  },
-  {
-    "name": "1/64 Toyota Hiace Widebody TOYOTA - Tarmac Works HOBBY64",
-    "sku": "T64-038-TO",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/8c490fb5f7a8.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-038-TO_M01.jpg?v=1724559667",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-widebody-toyota-hobby64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be appli"
   },
   {
     "name": "1/64 Datsun 510 Light Green - Tarmac Works ROAD64",
@@ -1713,17 +1779,6 @@
     "image": "data/images/tarmac_works/bdcfa126e98d.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-041-RE_a1.jpg?v=1709779718",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hilux-red",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*d"
-  },
-  {
-    "name": "1/64 Renault 5 Turbo Monte Carlo Rally 1981 #9 Winner - Tarmac Works HOBBY64",
-    "sku": "T64-TL060-81MCR09 (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/2ad7770c9802.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL060-81MCR09_a1.jpg?v=1708057699",
-    "url": "https://www.tarmacworks.com/products/tarmac-works1-64-renault-5-turbo-monte-carlo-rally-1981-9-winner-hobby64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed productTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*d"
   },
   {

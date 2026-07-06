@@ -1,13 +1,24 @@
 [
   {
-    "name": "Kaido GT Nissan Skyline GT-R (R33) BFTHR V1",
+    "name": "Kaido GT Nissan Datsun 510 Street Nismo V3",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG213.jpg?v=1781997055&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG213.jpg?v=1781997055&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r33-bfthr-v1",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-datsun-510-street-nismo-v3",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Nissan Datsun 510 Street Nismo V3",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-datsun-510-street-nismo-v3",
     "description": ""
   },
   {
@@ -85,17 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG191.jpg?v=1778268294&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG191.jpg?v=1778268294&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r33-kaido-works-advan",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT BMW M3 Kaido Touring Champ V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG223.jpg?v=1778214720&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG223.jpg?v=1778214720&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-mbw-m3-kaido-touring-champ-v1",
     "description": ""
   }
 ]
