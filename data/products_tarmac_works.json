@@ -1,5 +1,115 @@
 [
   {
+    "name": "1/64 Coca-Cola Trio Bundle",
+    "sku": null,
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$74.90",
+    "image": "data/images/tarmac_works/2fda6a2761a7.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/1_7356c41c-db69-4b5b-8357-c64cc741f71b.jpg?v=1784816104",
+    "url": "https://www.tarmacworks.com/products/1-64-coca-cola-trio-bundle",
+    "description": "27% OFF Original Price!Each bundle contains the 3 Tarmac Works model cars below:1/64 Mitsubishi Fuso Super Great Coca-Cola Santa Truck - Tarmac Works TRUCK641/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable Gull-wing compartment which can fit 2 regular size 64 scale cars insideOpenable cab with engine detailsPaper boxpackagingFully licensed product1/64 Datsun Bluebird 510 Wagon FANTA - Tarmac Works GLOBAL64Chase Ver"
+  },
+  {
+    "name": "1/64 Mercedes-Benz AMG GT Black Series Grey - Tarmac Works GLOBAL64",
+    "sku": "T64G-042-GY",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$11.90",
+    "image": "data/images/tarmac_works/82a5abc661d5.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-042-GY_M01.jpg?v=1784516349",
+    "url": "https://www.tarmacworks.com/products/1-64-mercedes-benz-amg-gt-black-series-grey-tarmac-works-global64",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper box packagingFully licensed product"
+  },
+  {
+    "name": "1/64 Mercedes-AMG F1 W14 E Performance Italian Grand Prix 2023 #44 Lewis Hamilton - Tarmac Works x iXO Models GLOBAL64",
+    "sku": "T64G-F064-LH3",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/f4155480a8a7.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F064-LH3_M01.jpg?v=1784515904",
+    "url": "https://www.tarmacworks.com/products/1-64-mercedes-amg-f1-w14-e-performance-italian-grand-prix-2023-44-lewis-hamilton-tarmac-works-x-ixo-models-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 Mitsubishi Lancer GSR Evolution Green Metallic - Tarmac Works GLOBAL64",
+    "sku": "T64G-048-GR",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$11.90",
+    "image": "data/images/tarmac_works/3710369ca7f1.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-048-GR_M02.jpg?v=1784514660",
+    "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-lancer-gsr-evolution-green-metallic-tarmac-works-global64",
+    "description": "Chrome Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 Toyota GR YARIS Rally1 HYBRID Rally Latvia 2024 Winner #69 - Tarmac Works x iXO Models HOBBY64",
+    "sku": "T64-085-24RL69",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/0f6e2b26adc2.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-085-24RL69_M01.jpg?v=1784516560",
+    "url": "https://www.tarmacworks.com/products/1-64-toyota-gr-yaris-rally1-hybrid-rally-latvia-2024-winner-69-tarmac-works-x-ixo-models-hobby64",
+    "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Pandem Toyota GR Yaris Toy Story - 30th Anniversary with Tarmac Cards - Tarmac Works HOBBY64",
+    "sku": "T64-080-TS2",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$28.90",
+    "image": "data/images/tarmac_works/edaac01a73a6.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-080-TS2_M03_1.jpg?v=1784516842",
+    "url": "https://www.tarmacworks.com/products/1-64-pandem-toyota-gr-yaris-toy-story-30th-anniversary-with-tarmac-cards-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxWindow paper box packagingFully licensed productAutomotive Collector Cards⁠Each pack comes with 3 cardsHighlights:Featuring 10 card designs with different parallels!Hunt down Woody & Buzz Lightyear's rare facsimile autograph cards!Limited edition parallels include:With serial numbers:a/ Black (#'d/1)b/ Gold(#'d/"
+  },
+  {
+    "name": "1/64 RWB 930 Southern Cross - Tarmac Works HOBBY64",
+    "sku": "T64-TL015-SC",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/effc9acd48f0.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL015-SC_M01.jpg?v=1784538151",
+    "url": "https://www.tarmacworks.com/products/1-64-rwb-930-southern-cross-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Mitsubishi Fuso Canter - Coca-Cola Box Truck - Tarmac Works TRUCK64",
+    "sku": "T64T-TL002-CC",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/edd62e54bb16.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL002-CC_M03.jpg?v=1784538361",
+    "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-fuso-canter-coca-cola-box-truck-tarmac-works-truck64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsFeatures openable liftgateDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Mitsubishi Fuso Canter - Coca-Cola Advertisement Truck - Tarmac Works TRUCK64",
+    "sku": "T64T-TL002-CC2",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$29.90",
+    "image": "data/images/tarmac_works/eaa5443f8efb.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL002-CC2_M01.jpg?v=1784539697",
+    "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-fuso-canter-coca-cola-advertisement-truck-tarmac-works-truck64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 GRAMS28 Mars Rover 944 - COLLAB64 Schuco x Tarmac Works",
+    "sku": "T64S-018-G28",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/152c5aef4767.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64S-018-G28_a.jpg?v=1784539751",
+    "url": "https://www.tarmacworks.com/products/1-64-grams28-mars-rover-collab64-schuco-x-tarmac-works",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castMade in collaboration with GRAMS28Based on Jonny Roams’ Mars Rover 944Limited production run and will never be produced againDetailed rims & rubber wheelsPaper boxpackagingFully licensed product"
+  },
+  {
     "name": "Mitsubishi Discount Bundle - 1/64 Mitsubishi Lancer GSR Evolution Silver with Tarmac Cards & Event Special Mitsubishi Vol.01 (Pack)",
     "sku": null,
     "brand": "Tarmac Works",
@@ -207,17 +317,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-021-TMEB_M01.jpg?v=1778053052",
     "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-lancer-evolution-vi-tommi-makinen-edition-blue-tarmac-works-road64",
     "description": "Decal Stickers Included1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
-    "name": "J Collection 1/64 Nissan Skyline 2000GT-R KPGC110 Blue Metallic - COLLAB64",
-    "sku": "JC64-010-BL",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$9.90",
-    "image": "data/images/tarmac_works/33198301a59d.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/JC64-010-BL_M01.jpg?v=1776071670",
-    "url": "https://www.tarmacworks.com/products/j-collection-1-64-nissan-skyline-2000gt-r-kpgc110-blue-metallic-collab64",
-    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
   },
   {
     "name": "1/64 McLaren MCL60 British Grand Prix 2023 Lando Norris - Tarmac Works X iXO Models GLOBAL64",
@@ -921,17 +1020,6 @@
     "image": "data/images/tarmac_works/e30925e272e9.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-083-99CHA82_M02.jpg?v=1752410017",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-ferrari-f355-challenge-ferrari-f355-challenge-1999-82-hobby64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
-    "name": "1/64 Ferrari 348 Challenge Yellow - Tarmac Works X iXO Models ROAD64",
-    "sku": "T64R-082-YL",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/002bb20affef.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-082-YL_M01.jpg?v=1752409614",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-ferrari-348-challenge-yellow-road64",
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
@@ -2110,17 +2198,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/products/AD-76497MJ.jpg?v=1661757922",
     "url": "https://www.tarmacworks.com/products/american-diorama-1-64-figure-set-police-line-2",
     "description": "MIJO Exclusives1/64 scale die-castBlister packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
-  },
-  {
-    "name": "American Diorama 1/64 Figures - Beach Girls -  Tarmac Works COLLAB64",
-    "sku": "T64F-002-YL (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$7.90",
-    "image": "data/images/tarmac_works/f6eaae3d5cc9.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/products/T64F-002-YL_a.jpg?v=1660293388",
-    "url": "https://www.tarmacworks.com/products/american-diorama-x-tarmac-works-1-64-figures-beach-girls-collab64",
-    "description": "Special collaboration project with American Diorama1/64 scale die-castPaper box packagingTarmac Works Owners Club (TWOC) Membership- Join our membership now to save 10% on this item!*- Exclusive membership car included- Exclusive 24-hour early bird window on all releases- Purchase exclusive Members-Only-ModelsClickherefor more detail!*discounts and member benefits will be applied on the next order after the purchase of the membership"
   },
   {
     "name": "1/64 Pagani Huayra BC Grigio Mercurio - Tarmac Works GLOBAL64",
