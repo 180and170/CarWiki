@@ -1,13 +1,46 @@
 [
   {
-    "name": "Kaido GT Volkswagen T1 Kaido Works® V1",
+    "name": "Kaido GT Datsun Kaido 510 Wagon Koi Wagon V1",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG220.jpg?v=1783484186&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG220.jpg?v=1783484186&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-volkswagen-t1-kaido-works-v1",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2-copy",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Datsun Kaido 510 Wagon Koi Wagon V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2-copy",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Chevrolet Silverado Dually Vintage Spec V2",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Toyota Sprinter Trueno kaido Street V2",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG218.jpg?v=1785631613&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG218.jpg?v=1785631613&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-toyota-sprinter-trueno-kaido-street-v2",
     "description": ""
   },
   {
@@ -63,39 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG214.jpg?v=1783483501&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG214.jpg?v=1783483501&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-gt-toyota-ae86-sprinter-trueno-kaido-advan",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Nissan Skyline GT-R (R34) Kaido Star Racing V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG197.jpg?v=1783483323&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG197.jpg?v=1783483323&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r34-kaido-star-racing-v1",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Nissan Datsun 510 Street Nismo V3",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG229.jpg?v=1782835919&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-datsun-510-street-nismo-v3",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Nissan Skyline GT-R (R33) BFTHR V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG213.jpg?v=1781997055&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG213.jpg?v=1781997055&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r33-bfthr-v1",
     "description": ""
   }
 ]
