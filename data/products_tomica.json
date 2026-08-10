@@ -1,5 +1,27 @@
 [
   {
+    "name": "NISMO 400R - White",
+    "sku": "",
+    "brand": "Tomica",
+    "scale": "1/64",
+    "price": "",
+    "image": "data/images/tomica/a2ed2081cd59.jpg",
+    "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4518/26587/T61033_Resize1__47551.1785171152.jpg?c=1",
+    "url": "https://us.tomy.com/nismo-400r-white/",
+    "description": ""
+  },
+  {
+    "name": "NISMO 400R - White",
+    "sku": "",
+    "brand": "Tomica",
+    "scale": "1/64",
+    "price": "",
+    "image": "data/images/tomica/a2ed2081cd59.jpg",
+    "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4518/26587/T61033_Resize1__47551.1785171152.jpg?c=1",
+    "url": "https://us.tomy.com/nismo-400r-white/",
+    "description": ""
+  },
+  {
     "name": "Datsun 1969 510 2 Door Sedan US Specs - Light Blue",
     "sku": "",
     "brand": "Tomica",
@@ -239,28 +261,6 @@
     "image": "data/images/tomica/c9e176aebdfe.jpg",
     "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4254/22387/T61023_Resize_19__14752.1748366144.jpg?c=1",
     "url": "https://us.tomy.com/nissan-axia-skyline-1992-late-model/",
-    "description": ""
-  },
-  {
-    "name": "Mazda RX-8 Type RS 2008",
-    "sku": "",
-    "brand": "Tomica",
-    "scale": "1/64",
-    "price": "",
-    "image": "data/images/tomica/453a00a49e7d.jpg",
-    "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4224/22540/T61019_Resize_17__76787.1749495848.jpg?c=1",
-    "url": "https://us.tomy.com/mazda-rx-8-type-rs-2008/",
-    "description": ""
-  },
-  {
-    "name": "Mazda RX-8 Type RS 2008",
-    "sku": "",
-    "brand": "Tomica",
-    "scale": "1/64",
-    "price": "",
-    "image": "data/images/tomica/453a00a49e7d.jpg",
-    "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4224/22540/T61019_Resize_17__76787.1749495848.jpg?c=1",
-    "url": "https://us.tomy.com/mazda-rx-8-type-rs-2008/",
     "description": ""
   },
   {

@@ -1,13 +1,46 @@
 [
   {
-    "name": "Kaido GT Datsun Kaido 510 Wagon Koi Wagon V1",
+    "name": "Toyota AE86 Sprinter Trueno Kaido Advan Kaido House LTDEDN",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2-copy",
+    "price": "Regular price$200.00 USDRegular priceSale price$200.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/IMG_3587.jpg?v=1786033625&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/IMG_3587.jpg?v=1786033625&width=533",
+    "url": "https://www.kaidohouse.com/products/toyota-ae86-sprinter-trueno-kaido-advan-kaido-house-ltdedn",
+    "description": ""
+  },
+  {
+    "name": "Toyota AE86 Sprinter Trueno Kaido Advan Kaido House LTDEDN",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$200.00 USDRegular priceSale price$200.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/IMG_3587.jpg?v=1786033625&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/IMG_3587.jpg?v=1786033625&width=533",
+    "url": "https://www.kaidohouse.com/products/toyota-ae86-sprinter-trueno-kaido-advan-kaido-house-ltdedn",
+    "description": ""
+  },
+  {
+    "name": "KAIDO HOUSE X OFFSE7® enamel pin display case, BLUE",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$15.00 USDRegular priceSale price$15.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Blue.jpg?v=1785983845&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Blue.jpg?v=1785983845&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-house-x-offse7%C2%AE-enamel-pin-display-case-blue",
+    "description": ""
+  },
+  {
+    "name": "KAIDO HOUSE X OFFSE7® enamel pin display case, RED",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$15.00 USDRegular priceSale price$15.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Red.jpg?v=1785983760&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Red.jpg?v=1785983760&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-house-x-offse7%C2%AE-enamel-pin-display-case-red",
     "description": ""
   },
   {
@@ -63,39 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG236.jpg?v=1783483937&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG236.jpg?v=1783483937&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-hot-rod-v1",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT NIssan Fairlady Z Tamiya x Kaido House \"The Frog\" V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG263.jpg?v=1783483792&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG263.jpg?v=1783483792&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-fairlady-z-tamiya-x-kaido-house-the-frog-v1",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT BMW M3  Kaido Works® V2",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG242.jpg?v=1783483607&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG242.jpg?v=1783483607&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-bmw-m3-kaido-works-v2",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Toyota AE86 Sprinter Trueno Kaido Advan",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG214.jpg?v=1783483501&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG214.jpg?v=1783483501&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-toyota-ae86-sprinter-trueno-kaido-advan",
     "description": ""
   }
 ]
