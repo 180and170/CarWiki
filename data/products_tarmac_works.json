@@ -1,5 +1,104 @@
 [
   {
+    "name": "1/64 Pagani Imola Matt Silver - Tarmac Works GLOBAL64",
+    "sku": "T64G-TL046-SL",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$12.90",
+    "image": "data/images/tarmac_works/5cf24443c8e7.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL046-SL_M01.jpg?v=1788503178",
+    "url": "https://www.tarmacworks.com/products/1-64-pagani-imola-matt-silver-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsNo chase carPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 Koenigsegg One:1 KNC - Tarmac Works GLOBAL64",
+    "sku": "T64G-TL054-KNC",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$21.90",
+    "image": "data/images/tarmac_works/938cd80009b7.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL054-KNC_M01.jpg?v=1787922789",
+    "url": "https://www.tarmacworks.com/products/1-64-koenigsegg-one-1-knc-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsCarbon Fiber Pad PrintNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Nissan S-Cargo Sprite - Tarmac Works GLOBAL64",
+    "sku": "T64G-073-SP",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/e90b44ff01ab.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-073-SP_M02.jpg?v=1787921854",
+    "url": "https://www.tarmacworks.com/products/1-64-nissan-s-cargo-sprite-tarmac-works-global64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable tailgateNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Porsche 911 Carrera RS (964) Mint Green - Schuco x Tarmac Works COLLAB64",
+    "sku": "T64S-017-MG",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$16.90",
+    "image": "data/images/tarmac_works/e824d1870e23.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64S-017-MG_M02.jpg?v=1788160037",
+    "url": "https://www.tarmacworks.com/products/1-64-porsche-911-carrera-rs-964-mint-green-schuco-x-tarmac-works-collab64",
+    "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsPaper boxpackagingFully licensed product"
+  },
+  {
+    "name": "1/64 LB-WORKS NISSAN GT-R R35 type 2 White - Tarmac Works HOBBY64",
+    "sku": "T64-090-WH",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$36.90",
+    "image": "data/images/tarmac_works/23deec08cdea.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-090-WH_M01.jpg?v=1787915946",
+    "url": "https://www.tarmacworks.com/products/1-64-lb-works-nissan-gt-r-r35-type-2-white-tarmac-works-hobby64",
+    "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxIncludes a special metal oil can with paper box (W12CM X D7.5CM X H18.5CM)Fully licensed productProduct weight: 0.5kg"
+  },
+  {
+    "name": "1/64 Mercedes-Benz SLS AMG GT3 Macau GT Cup - FIA GT World Cup 2015 #1 Winner - Maro Engel - Tarmac Works HOBBY64",
+    "sku": "T64-087-15MGP01",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$25.90",
+    "image": "data/images/tarmac_works/6e31703851d1.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-087-15MGP01_M01.jpg?v=1788160024",
+    "url": "https://www.tarmacworks.com/products/1-64-mercedes-benz-sls-amg-gt3-macau-gt-cup-fia-gt-world-cup-2015-1-winner-maro-engel-tarmac-works-hobby64",
+    "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxWindow paper box packagingFully licensed productAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHunt down the non-serial Silver and Thunderbolt Parallel!⁠Chase the very rare Disco [#'d/199] parallel card!"
+  },
+  {
+    "name": "1/64 Honda Civic TYPE R FK8 NASA Western Endurance Racing Championship 2022 #7 Student Driver (by Daniel Wu) - Tarmac Works HOBBY64",
+    "sku": "T64-TL014-SD07",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$25.90",
+    "image": "data/images/tarmac_works/66ff17facd26.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL014-SD07_M03.jpg?v=1787913207",
+    "url": "https://www.tarmacworks.com/products/1-64-honda-civic-type-r-fk8-nasa-western-endurance-racing-championship-2022-7-student-driver-tarmac-works-hobby64",
+    "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxWindow paper box packagingFully licensed productDrivers line-up: Daniel Wu / Tazio Ottis / Will Wattanawongkiri / Patrick ChioAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHunt down the non-serial Silver and Thunderbolt Parallel!⁠Chase the very rare Nu-Disco [#'d/199] parallel card!"
+  },
+  {
+    "name": "1/64 RWB 964 Coca-Cola - Tarmac Works HOBBY64",
+    "sku": "T64-TL037-CC",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$22.90",
+    "image": "data/images/tarmac_works/9edc07093017.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL037-CC_M01.jpg?v=1787910852",
+    "url": "https://www.tarmacworks.com/products/1-64-rwb-964-coca-cola-tarmac-works-hobby64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
+  },
+  {
+    "name": "1/64 Mitsubishi Fuso Super Great LB-TRUCKS - Tarmac Works TRUCK64",
+    "sku": "T64T-TL001-LBY",
+    "brand": "Tarmac Works",
+    "scale": "1/64",
+    "price": "$69.90",
+    "image": "data/images/tarmac_works/53b7cbf8266a.jpg",
+    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL001-LBY_M02.jpg?v=1787910241",
+    "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-fuso-super-great-lb-trucks-tarmac-works-truck64",
+    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable Gull-wing compartment that fits 2 1:64 scale cars insideOpenable cab with engine detailsPaper boxpackagingFully licensed product"
+  },
+  {
     "name": "1/64 Porsche 928 S Red - Tarmac Works x iXO Models GLOBAL64",
     "sku": "T64G-083-RE",
     "brand": "Tarmac Works",
@@ -323,7 +422,7 @@
     "sku": "T64-043-SEAN (ST)",
     "brand": "Tarmac Works",
     "scale": "1/64",
-    "price": "$29.90",
+    "price": "$25.90",
     "image": "data/images/tarmac_works/f91ec1219742.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-043-SEAN_M03_2_-Copy.jpg?v=1780660668",
     "url": "https://www.tarmacworks.com/products/1-64-audi-r8-lms-gt3-evo-ii-sean-wotherspoon-special-edition-tarmac-works-hobby64",
@@ -1155,17 +1254,6 @@
     "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
-    "name": "1/64 Ferrari 458 Italia GT3 White - Tarmac Works X iXO Models ROAD64",
-    "sku": "T64R-074-WH (ST)",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$21.90",
-    "image": "data/images/tarmac_works/4548d438783c.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-074-WH_M02.jpg?v=1749440763",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-ferrari-458-italia-gt3-white-road64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-  },
-  {
     "name": "1/64 Liberty Walk Mitsubishi Fuso Super Great LB-TRUCKS Light Blue - Tarmac Works TRUCK64",
     "sku": "T64T-TL001-LBS (ST)",
     "brand": "Tarmac Works",
@@ -1241,17 +1329,6 @@
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-F064-GR1_M01.jpg?v=1746159075",
     "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mercedes-amg-f1-w14-e-performance-spanish-grand-prix-2023-63-george-russell-global64",
     "description": "New ToolingChase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
-  },
-  {
-    "name": "1/64 Datsun 510 Police Car - Tarmac Works ROAD64",
-    "sku": "T64R-052-PC",
-    "brand": "Tarmac Works",
-    "scale": "1/64",
-    "price": "$19.90",
-    "image": "data/images/tarmac_works/7728d8c8ccc4.jpg",
-    "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64R-052-PC_M02.jpg?v=1746157897",
-    "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-datsun-510-police-car-road64",
-    "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
   },
   {
     "name": "1/64 Ferrari F355 Challenge Yellow - Tarmac Works X iXO Models ROAD64",
@@ -1786,7 +1863,7 @@
     "sku": "C22-E46W-04M15",
     "brand": "Tarmac Works",
     "scale": "1/64",
-    "price": "$19.90",
+    "price": "$15.90",
     "image": "data/images/tarmac_works/2014c8715a20.jpg",
     "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/C22-E46W-04M15_a.jpg?v=1705459391",
     "url": "https://www.tarmacworks.com/products/catch22-1-64-bmw-320i-macau-guia-race-2004-15-winner",
