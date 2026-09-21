@@ -1,13 +1,46 @@
 [
   {
-    "name": "Kaido GT Chevrolet Silverado Kaido Intimidator V2",
+    "name": "Kaido GT Volkswagen T1 Kaido RADVAN V1",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG267.jpg?v=1788402259&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG267.jpg?v=1788402259&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-kaido-intimidator-v2",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-volkswagen-t1-kaido-radvan-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Volkswagen T1 Kaido RADVAN V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-volkswagen-t1-kaido-radvan-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Nissan Skyline GT-R (R33) Black Kaido Cat",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG276.jpg?v=1789764328&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG276.jpg?v=1789764328&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r33-black-kaido-cat",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Toyota AE86 Sprinter Trueno Touge V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG254.jpg?v=1789764202&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG254.jpg?v=1789764202&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-toyota-ae86-sprinter-trueno-touge-v1",
     "description": ""
   },
   {
@@ -63,39 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Red.jpg?v=1785983760&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHPC-Red.jpg?v=1785983760&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-house-x-offse7%C2%AE-enamel-pin-display-case-red",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Datsun Kaido 510 Wagon Koi Wagon V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2-copy",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Chevrolet Silverado Dually Vintage Spec V2",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Toyota Sprinter Trueno kaido Street V2",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG218.jpg?v=1785631613&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG218.jpg?v=1785631613&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-toyota-sprinter-trueno-kaido-street-v2",
     "description": ""
   }
 ]
