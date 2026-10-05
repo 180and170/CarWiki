@@ -1,13 +1,35 @@
 [
   {
-    "name": "Kaido GT Volkswagen T1 Kaido RADVAN V1",
+    "name": "Kaido GT Nissan Silvia S13-R Kadio Splash V1",
     "sku": "",
     "brand": "KAIDO HOUSE",
     "scale": "1/64",
     "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG245.jpg?v=1789764508&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-volkswagen-t1-kaido-radvan-v1",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG284.jpg?v=1791169202&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG284.jpg?v=1791169202&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-silvia-s13-r-kadio-splash-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Nissan Silvia S13-R Kadio Splash V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG284.jpg?v=1791169202&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG284.jpg?v=1791169202&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-silvia-s13-r-kadio-splash-v1",
+    "description": ""
+  },
+  {
+    "name": "Kaido GT Volkswagen T1 Greddy Pickup V1",
+    "sku": "",
+    "brand": "KAIDO HOUSE",
+    "scale": "1/64",
+    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG261.jpg?v=1791169117&width=533",
+    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG261.jpg?v=1791169117&width=533",
+    "url": "https://www.kaidohouse.com/products/kaido-gt-volkswagen-t1-greddy-pickup-v1",
     "description": ""
   },
   {
@@ -74,28 +96,6 @@
     "image": "https://www.kaidohouse.com/cdn/shop/files/KH-Pro-01.jpg?v=1787436381&width=533",
     "image_url": "https://www.kaidohouse.com/cdn/shop/files/KH-Pro-01.jpg?v=1787436381&width=533",
     "url": "https://www.kaidohouse.com/products/kaido-house-box-protector-10-pack",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Datsun Kaido 510 Wagon Koi Wagon V1",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG248.jpg?v=1785631842&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2-copy",
-    "description": ""
-  },
-  {
-    "name": "Kaido GT Chevrolet Silverado Dually Vintage Spec V2",
-    "sku": "",
-    "brand": "KAIDO HOUSE",
-    "scale": "1/64",
-    "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-    "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
-    "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG243.jpg?v=1785631729&width=533",
-    "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-dually-vintage-spec-v2",
     "description": ""
   }
 ]
