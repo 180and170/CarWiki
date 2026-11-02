@@ -108,5 +108,16 @@
     "image_url": "",
     "url": "https://www.siku.de/siku-lamborghini-temerario/10113000000",
     "description": ""
+  },
+  {
+    "name": "siku Ford Mustang  GTD",
+    "sku": "",
+    "brand": "SIKU",
+    "scale": "1/64",
+    "price": "5,99 €*",
+    "image": "https://media.siku.de/media/80/74/46/1790241618/10112900000_01.jpg?width=3000",
+    "image_url": "https://media.siku.de/media/80/74/46/1790241618/10112900000_01.jpg?width=3000",
+    "url": "https://www.siku.de/siku-ford-mustang-gtd/10112900000",
+    "description": ""
   }
 ]
