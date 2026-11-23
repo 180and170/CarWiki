@@ -1,8 +1,8 @@
 {
   "meta": {
-    "last_updated": "2026-11-16T15:02:47.309035+00:00",
+    "last_updated": "2026-11-23T17:33:40.378490+00:00",
     "total_brands": 13,
-    "total_products": 310
+    "total_products": 300
   },
   "brands": {
     "mini_gt": {
@@ -660,17 +660,6 @@
         "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsCarbon Fiber Pad PrintNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
       },
       {
-        "name": "1/64 Nissan S-Cargo Sprite - Tarmac Works GLOBAL64",
-        "sku": "T64G-073-SP",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$16.90",
-        "image": "data/images/tarmac_works/e90b44ff01ab.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-073-SP_M02.jpg?v=1787921854",
-        "url": "https://www.tarmacworks.com/products/1-64-nissan-s-cargo-sprite-tarmac-works-global64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable tailgateNo chase carDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-      },
-      {
         "name": "1/64 Porsche 911 Carrera RS (964) Mint Green - Schuco x Tarmac Works COLLAB64",
         "sku": "T64S-017-MG",
         "brand": "Tarmac Works",
@@ -702,17 +691,6 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL014-SD07_M03.jpg?v=1787913207",
         "url": "https://www.tarmacworks.com/products/1-64-honda-civic-type-r-fk8-nasa-western-endurance-racing-championship-2022-7-student-driver-tarmac-works-hobby64",
         "description": "New Tooling1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxWindow paper box packagingFully licensed productDrivers line-up: Daniel Wu / Tazio Ottis / Will Wattanawongkiri / Patrick ChioAUTOMOTIVE COLLECTOR CARDS⁠Each pack comes with 2 cardsHunt down the non-serial Silver and Thunderbolt Parallel!⁠Chase the very rare Nu-Disco [#'d/199] parallel card!"
-      },
-      {
-        "name": "1/64 RWB 964 Coca-Cola - Tarmac Works HOBBY64",
-        "sku": "T64-TL037-CC",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$22.90",
-        "image": "data/images/tarmac_works/9edc07093017.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL037-CC_M01.jpg?v=1787910852",
-        "url": "https://www.tarmacworks.com/products/1-64-rwb-964-coca-cola-tarmac-works-hobby64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
       },
       {
         "name": "1/64 Mitsubishi Fuso Super Great LB-TRUCKS - Tarmac Works TRUCK64",
@@ -803,17 +781,6 @@
         "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsPaper boxpackagingFully licensed product"
       },
       {
-        "name": "1/64 Coca-Cola Trio Bundle",
-        "sku": null,
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$74.90",
-        "image": "data/images/tarmac_works/2fda6a2761a7.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/1_7356c41c-db69-4b5b-8357-c64cc741f71b.jpg?v=1784816104",
-        "url": "https://www.tarmacworks.com/products/1-64-coca-cola-trio-bundle",
-        "description": "27% OFF Original Price!Each bundle contains the 3 Tarmac Works model cars below:1/64 Mitsubishi Fuso Super Great Coca-Cola Santa Truck - Tarmac Works TRUCK641/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable Gull-wing compartment which can fit 2 regular size 64 scale cars insideOpenable cab with engine detailsPaper boxpackagingFully licensed product1/64 Datsun Bluebird 510 Wagon FANTA - Tarmac Works GLOBAL64Chase Ver"
-      },
-      {
         "name": "1/64 Mercedes-Benz AMG GT Black Series Grey - Tarmac Works GLOBAL64",
         "sku": "T64G-042-GY",
         "brand": "Tarmac Works",
@@ -878,28 +845,6 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-TL015-SC_M01.jpg?v=1784538151",
         "url": "https://www.tarmacworks.com/products/1-64-rwb-930-southern-cross-tarmac-works-hobby64",
         "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-      },
-      {
-        "name": "1/64 Mitsubishi Fuso Canter - Coca-Cola Box Truck - Tarmac Works TRUCK64",
-        "sku": "T64T-TL002-CC",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$29.90",
-        "image": "data/images/tarmac_works/edd62e54bb16.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL002-CC_M03.jpg?v=1784538361",
-        "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-fuso-canter-coca-cola-box-truck-tarmac-works-truck64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsFeatures openable liftgateDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-      },
-      {
-        "name": "1/64 Mitsubishi Fuso Canter - Coca-Cola Advertisement Truck - Tarmac Works TRUCK64",
-        "sku": "T64T-TL002-CC2",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$29.90",
-        "image": "data/images/tarmac_works/eaa5443f8efb.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL002-CC2_M01.jpg?v=1784539697",
-        "url": "https://www.tarmacworks.com/products/1-64-mitsubishi-fuso-canter-coca-cola-advertisement-truck-tarmac-works-truck64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
       },
       {
         "name": "1/64 GRAMS28 Mars Rover 944 - Schuco x Tarmac Works COLLAB64",
@@ -1408,17 +1353,6 @@
         "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
       },
       {
-        "name": "1/64 Mitsubishi Fuso Super Great Coca-Cola Santa Truck - Tarmac Works TRUCK64",
-        "sku": "T64T-TL001-CC",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$59.90",
-        "image": "data/images/tarmac_works/1ed3aa020f9a.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64T-TL001-CC_M02.jpg?v=1764832533",
-        "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-mitsubishi-fuso-super-great-coca-cola-santa-truck-truck64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsOpenable Gull-wing compartment which can fit 2 regular size 64 scale cars insideOpenable cab with engine detailsPaper boxpackagingFully licensed product"
-      },
-      {
         "name": "1/64 Mercedes-Benz 190 E 2.5-16 EVO 1 DTM 1989 Dany Snobeck - Tarmac Works GLOBAL64",
         "sku": "T64G-057-89DTM11",
         "brand": "Tarmac Works",
@@ -1826,17 +1760,6 @@
         "description": "Limited to 917 pcs produced1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsOpening rear bonnet with detailed engine bayDisplay base and acrylic cover with a paper box"
       },
       {
-        "name": "1/64 Datsun Bluebird 510 Wagon FANTA - Tarmac Works GLOBAL64",
-        "sku": "T64G-026-FA",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$12.90",
-        "image": "data/images/tarmac_works/88ca855befb9.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-026-FA_M01_62a24863-07a9-4d76-8c3d-8a1168b915d1.jpg?v=1782979631",
-        "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-datsun-bluebird-510-wagon-fanta-global64",
-        "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-      },
-      {
         "name": "1/64 Volvo 240 Turbo Malaysian Group A Championships 1987 #04 Winner - Tarmac Works HOBBY64",
         "sku": "T64-050-87MAL04",
         "brand": "Tarmac Works",
@@ -1914,17 +1837,6 @@
         "description": "Limited to 1776 pcs producedSpecial collaboration project with Minichamps1/64 scale die-castDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper boxFully licensed product"
       },
       {
-        "name": "1/64 Dodge Van Sprite Delivery Van - Tarmac Works GLOBAL64",
-        "sku": "T64G-TL032-SP",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$13.90",
-        "image": "data/images/tarmac_works/bd61f8a16a83.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64G-TL032-SP_M02.jpg?v=1744688224",
-        "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-dodge-van-sprite-delivery-van-global64",
-        "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsDisplay base and acrylic cover with a paper sleeve boxFully licensed product"
-      },
-      {
         "name": "1/64 Porsche 718 Spyder RS Mint Green - Tarmac Works X Minichamps COLLAB64",
         "sku": "T64MC-008-MG",
         "brand": "Tarmac Works",
@@ -1958,17 +1870,6 @@
         "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper boxFully licensed product"
       },
       {
-        "name": "1/64 Toyota Hiace Wagon Custom Coca-Cola Delivery Van - Tarmac Works HOBBY64",
-        "sku": "T64-078-CC (ST)",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$19.90",
-        "image": "data/images/tarmac_works/8f8da7f2e051.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64-078-CC_M02_f73c81db-2a8c-4f68-9050-b1896228dfbc.jpg?v=1782978433",
-        "url": "https://www.tarmacworks.com/products/tarmac-works-1-64-toyota-hiace-wagon-custom-coca-cola-delivery-van-hobby64",
-        "description": "1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper sleeve boxInclude individual numbered collector cardFully licensed product"
-      },
-      {
         "name": "1/64 Porsche 718 Spyder RS Vanadium Grey Metallic - Tarmac Works X Minichamps  COLLAB64",
         "sku": "T64MC-008-VG",
         "brand": "Tarmac Works",
@@ -1989,17 +1890,6 @@
         "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/T64MC-008-RS_M03_23a8d589-a803-4d3d-a52e-19685bb9fd67.jpg?v=1743040997",
         "url": "https://www.tarmacworks.com/products/minichamps-x-tarmac-works-1-64-porsche-718-spyder-rs-ruby-star-neo-collab64",
         "description": "Limited to 1776 pcs producedSpecial collaboration project with Minichamps1/64 scale die-castDetailed rims & rubber wheelsDetailed front and rear lightsDisplay base and acrylic cover with a paper boxFully licensed product"
-      },
-      {
-        "name": "J Collection 1/64 Nissan Skyline GT-R (BNR32) Red",
-        "sku": "JC64-008-RD (ST)",
-        "brand": "Tarmac Works",
-        "scale": "1/64",
-        "price": "$9.90",
-        "image": "data/images/tarmac_works/2b4b81854044.jpg",
-        "image_url": "https://cdn.shopify.com/s/files/1/0762/0201/files/JC64-008-RD_M02.jpg?v=1740733402",
-        "url": "https://www.tarmacworks.com/products/j-collection-1-64-nissan-skyline-gt-r-bnr32-red",
-        "description": "Chase Version will replace normal version in random order1/64 scale die-castLimited production run and will never be produced againDetailed rims & rubber wheelsFree rolling wheelsPaper boxpackagingFully licensed product"
       },
       {
         "name": "1/64 Opel Kadett Gsi Blue Metallic - Tarmac Works GLOBAL64",
@@ -2962,6 +2852,50 @@
     "inno64": [],
     "tomica": [
       {
+        "name": "NISSAN Skyline FET Sports GT-R (1993 version)",
+        "sku": "",
+        "brand": "Tomica",
+        "scale": "1/64",
+        "price": "",
+        "image": "data/images/tomica/a6cd6decb77d.jpg",
+        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4572/27596/T61038-2000x2000-01__91196.1795035772.jpg?c=1",
+        "url": "https://us.tomy.com/nissan-skyline-fet-sports-gt-r-1993-version/",
+        "description": ""
+      },
+      {
+        "name": "NISSAN Skyline FET Sports GT-R (1993 version)",
+        "sku": "",
+        "brand": "Tomica",
+        "scale": "1/64",
+        "price": "",
+        "image": "data/images/tomica/a6cd6decb77d.jpg",
+        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4572/27596/T61038-2000x2000-01__91196.1795035772.jpg?c=1",
+        "url": "https://us.tomy.com/nissan-skyline-fet-sports-gt-r-1993-version/",
+        "description": ""
+      },
+      {
+        "name": "Toyota Sports 800 with Custom Wheels (Red)",
+        "sku": "",
+        "brand": "Tomica",
+        "scale": "1/64",
+        "price": "",
+        "image": "data/images/tomica/8f41b1e87ae0.jpg",
+        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4571/27580/T61037-2000x2000-01__00766.1795035566.jpg?c=1",
+        "url": "https://us.tomy.com/toyota-sports-800-with-custom-wheels-red/",
+        "description": ""
+      },
+      {
+        "name": "Toyota Sports 800 with Custom Wheels (Red)",
+        "sku": "",
+        "brand": "Tomica",
+        "scale": "1/64",
+        "price": "",
+        "image": "data/images/tomica/8f41b1e87ae0.jpg",
+        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4571/27580/T61037-2000x2000-01__00766.1795035566.jpg?c=1",
+        "url": "https://us.tomy.com/toyota-sports-800-with-custom-wheels-red/",
+        "description": ""
+      },
+      {
         "name": "Porsche 911S - Light Blue",
         "sku": "",
         "brand": "Tomica",
@@ -3179,50 +3113,6 @@
         "image": "data/images/tomica/bc93d530d0ce.jpg",
         "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4359/24141/T61027_Resize_1__41375.1763040268.jpg?c=1",
         "url": "https://us.tomy.com/nissan-skyline-2door-sports-coupe-25gt-turbo-with-optional-parts-2000/",
-        "description": ""
-      },
-      {
-        "name": "NISSAN  GT-R Premium edition 2025 model",
-        "sku": "",
-        "brand": "Tomica",
-        "scale": "1/64",
-        "price": "",
-        "image": "data/images/tomica/2d5e827ee02c.jpg",
-        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4341/23765/T61026_Resize_11__93725.1759333844.jpg?c=1",
-        "url": "https://us.tomy.com/nissan-gt-r-premium-edition-2025-model/",
-        "description": ""
-      },
-      {
-        "name": "NISSAN  GT-R Premium edition 2025 model",
-        "sku": "",
-        "brand": "Tomica",
-        "scale": "1/64",
-        "price": "",
-        "image": "data/images/tomica/2d5e827ee02c.jpg",
-        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4341/23765/T61026_Resize_11__93725.1759333844.jpg?c=1",
-        "url": "https://us.tomy.com/nissan-gt-r-premium-edition-2025-model/",
-        "description": ""
-      },
-      {
-        "name": "Toyota LAND CRUISER FJ56V",
-        "sku": "",
-        "brand": "Tomica",
-        "scale": "1/64",
-        "price": "",
-        "image": "data/images/tomica/3def67814674.jpg",
-        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4335/23660/T61025_Resize_1__56156.1756747552.jpg?c=1",
-        "url": "https://us.tomy.com/toyota-land-cruiser-fj56v/",
-        "description": ""
-      },
-      {
-        "name": "Toyota LAND CRUISER FJ56V",
-        "sku": "",
-        "brand": "Tomica",
-        "scale": "1/64",
-        "price": "",
-        "image": "data/images/tomica/3def67814674.jpg",
-        "image_url": "https://cdn11.bigcommerce.com/s-bo5kvbk80m/images/stencil/570x633/products/4335/23660/T61025_Resize_1__56156.1756747552.jpg?c=1",
-        "url": "https://us.tomy.com/toyota-land-cruiser-fj56v/",
         "description": ""
       },
       {
@@ -3438,132 +3328,143 @@
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
-        "image": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
+        "image": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Aston Martin Valhalla",
+        "name": "Porsche 911 GT3 RS",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
-        "image": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
+        "image": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Aston Martin Valhalla",
+        "name": "Porsche 911 GT3 RS",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
-        "image": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
+        "image": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Aston Martin Valhalla",
+        "name": "Porsche 911 GT3 RS",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
-        "image": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/51/b0/ac/1784639557/10112700000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
+        "image": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/7b/ac/1e/1762440815/10150000000_01.jpg?width=3000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Aston Martin Valhalla",
-        "sku": "",
-        "brand": "SIKU",
-        "scale": "1/64",
-        "price": "5,99 €*",
-        "image": "",
-        "image_url": "",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
-        "description": ""
-      },
-      {
-        "name": "siku Aston Martin Valhalla",
+        "name": "Porsche 911 GT3 RS",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
         "image": "",
         "image_url": "",
-        "url": "https://www.siku.de/siku-aston-martin-valhalla/10112700000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Lamborghini Temerario",
-        "sku": "",
-        "brand": "SIKU",
-        "scale": "1/64",
-        "price": "5,99 €*",
-        "image": "https://media.siku.de/media/83/a4/81/1789118146/10113000000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/83/a4/81/1789118146/10113000000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-lamborghini-temerario/10113000000",
-        "description": ""
-      },
-      {
-        "name": "siku Lamborghini Temerario",
-        "sku": "",
-        "brand": "SIKU",
-        "scale": "1/64",
-        "price": "5,99 €*",
-        "image": "https://media.siku.de/media/83/a4/81/1789118146/10113000000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/83/a4/81/1789118146/10113000000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-lamborghini-temerario/10113000000",
-        "description": ""
-      },
-      {
-        "name": "siku Lamborghini Temerario",
+        "name": "Porsche 911 GT3 RS",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
         "image": "",
         "image_url": "",
-        "url": "https://www.siku.de/siku-lamborghini-temerario/10113000000",
+        "url": "https://www.siku.de/porsche-911-gt3-rs/10150000000",
         "description": ""
       },
       {
-        "name": "siku Lamborghini Temerario",
+        "name": "VW T5 Sondereinsatzkommando – Polizeiauto",
+        "sku": "",
+        "brand": "SIKU",
+        "scale": "1/64",
+        "price": "5,99 €*",
+        "image": "https://media.siku.de/media/a8/d9/47/1752227816/10154800000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/a8/d9/47/1752227816/10154800000_01.jpg?width=3000",
+        "url": "https://www.siku.de/vw-t5-sondereinsatzkommando-polizeiauto/10154800000",
+        "description": ""
+      },
+      {
+        "name": "VW T5 Sondereinsatzkommando – Polizeiauto",
+        "sku": "",
+        "brand": "SIKU",
+        "scale": "1/64",
+        "price": "5,99 €*",
+        "image": "https://media.siku.de/media/a8/d9/47/1752227816/10154800000_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/a8/d9/47/1752227816/10154800000_01.jpg?width=3000",
+        "url": "https://www.siku.de/vw-t5-sondereinsatzkommando-polizeiauto/10154800000",
+        "description": ""
+      },
+      {
+        "name": "VW T5 Sondereinsatzkommando – Polizeiauto",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
         "image": "",
         "image_url": "",
-        "url": "https://www.siku.de/siku-lamborghini-temerario/10113000000",
+        "url": "https://www.siku.de/vw-t5-sondereinsatzkommando-polizeiauto/10154800000",
         "description": ""
       },
       {
-        "name": "siku Ford Mustang  GTD",
+        "name": "VW T5 Sondereinsatzkommando – Polizeiauto",
         "sku": "",
         "brand": "SIKU",
         "scale": "1/64",
         "price": "5,99 €*",
-        "image": "https://media.siku.de/media/80/74/46/1790241618/10112900000_01.jpg?width=3000",
-        "image_url": "https://media.siku.de/media/80/74/46/1790241618/10112900000_01.jpg?width=3000",
-        "url": "https://www.siku.de/siku-ford-mustang-gtd/10112900000",
+        "image": "",
+        "image_url": "",
+        "url": "https://www.siku.de/vw-t5-sondereinsatzkommando-polizeiauto/10154800000",
+        "description": ""
+      },
+      {
+        "name": "Tanklöschfahrzeug",
+        "sku": "",
+        "brand": "SIKU",
+        "scale": "1/64",
+        "price": "3,99 €*",
+        "image": "https://media.siku.de/media/c9/59/44/1691501570/10103400004_100_01.jpg?width=3000",
+        "image_url": "https://media.siku.de/media/c9/59/44/1691501570/10103400004_100_01.jpg?width=3000",
+        "url": "https://www.siku.de/tankloeschfahrzeug/10103400004",
         "description": ""
       }
     ],
     "kaido_house": [
       {
-        "name": "Kaido GT Chevrolet Camaro Kaido Works® TA V1",
+        "name": "Kaido GT Honda NSX Kaido Racing V1",
         "sku": "",
         "brand": "KAIDO HOUSE",
         "scale": "1/64",
         "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-        "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG304.jpg?v=1794538648&width=533",
-        "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG304.jpg?v=1794538648&width=533",
-        "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-camaro-kaido-works%C2%AE-ta-v1",
+        "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG255.jpg?v=1795060524&width=533",
+        "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG255.jpg?v=1795060524&width=533",
+        "url": "https://www.kaidohouse.com/products/kaido-gt-honda-nsx-kaido-racing-v1",
+        "description": ""
+      },
+      {
+        "name": "Kaido GT Honda NSX Kaido Racing V1",
+        "sku": "",
+        "brand": "KAIDO HOUSE",
+        "scale": "1/64",
+        "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
+        "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG255.jpg?v=1795060524&width=533",
+        "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG255.jpg?v=1795060524&width=533",
+        "url": "https://www.kaidohouse.com/products/kaido-gt-honda-nsx-kaido-racing-v1",
         "description": ""
       },
       {
@@ -3641,17 +3542,6 @@
         "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG241.jpg?v=1791954775&width=533",
         "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG241.jpg?v=1791954775&width=533",
         "url": "https://www.kaidohouse.com/products/kaido-gt-nissan-skyline-gt-r-r34-kaido-works-v4",
-        "description": ""
-      },
-      {
-        "name": "Kaido GT Chevrolet Silverado Kaido Dually Kaido Splash V1",
-        "sku": "",
-        "brand": "KAIDO HOUSE",
-        "scale": "1/64",
-        "price": "Regular price$40.00 USDRegular priceSale price$40.00 USDUnit price/per",
-        "image": "https://www.kaidohouse.com/cdn/shop/files/KHMG285.jpg?v=1791954546&width=533",
-        "image_url": "https://www.kaidohouse.com/cdn/shop/files/KHMG285.jpg?v=1791954546&width=533",
-        "url": "https://www.kaidohouse.com/products/kaido-gt-chevrolet-silverado-kaido-dually-kaido-splash-v1",
         "description": ""
       }
     ],
